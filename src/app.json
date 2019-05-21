@@ -4,7 +4,8 @@
     "pages/cate/main",
     "pages/card/main",
     "pages/my/main",
-    "pages/logs/main"
+    "pages/logs/main",
+    "pages/index/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
