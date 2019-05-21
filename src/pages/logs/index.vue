@@ -13,9 +13,8 @@ export default {
     return {
      
     }
-  },
-
-<script>
+  }
+}
 </script>
 
 <style>
